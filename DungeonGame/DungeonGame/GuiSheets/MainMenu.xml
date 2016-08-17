@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Main ResolutionX="1280" ResolutionY="720">
+
+  <Frame Bounding="0,0,250,250">
+    <Button Bounding="0,0,200,100" Message="Nested" Name="peep" Style="Default" Text="Button 1"/>
+    <Button Bounding="0,110,200,100" Message="birby" Style="Default" Text="Button 2"/>
+    <Frame Bounding="100,200,200,200">
+      <Button Bounding="50,50,198,100" Message="peep" Style="Default" Text="Button 3"/>
+      <Button Bounding="50,250,75,75" Message="Main" Style="Default" Text="Button 4"/>
+    </Frame>
+  </Frame>
+</Main>

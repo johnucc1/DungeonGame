@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Style Folder="MainMenuStyle">
+  <Fonts>
+    <Font Name="Default" URI="MenuFont"/>
+  </Fonts>
+
+  <ButtonStyle Name="Default" URI="MenuSheet" Font="Default">
+    <EdgeTexture Source="4,0,1,5"/>
+    <CornerTexture Source="0,0,5,5"/>
+    <FillTexture Source="2,0,1,1" Tiled="false"/>
+  </ButtonStyle>
+</Style>
